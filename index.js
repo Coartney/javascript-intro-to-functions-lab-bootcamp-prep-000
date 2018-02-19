@@ -15,6 +15,8 @@ spy('HELLO')
 function sayHiToGrandma(string) {
   if (string = 'hello')
   return ("I can\'t hear you!")
-  else (string = "HELLO")
+}
+function sayHiToGrandma(string){
+  if (string = 'HELLO')
   return ("YES INDEED!")
 }
