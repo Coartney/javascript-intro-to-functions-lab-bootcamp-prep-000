@@ -1,3 +1,3 @@
 function shot (string) {
-  return string
+  return string.toUppercase ()
 }
