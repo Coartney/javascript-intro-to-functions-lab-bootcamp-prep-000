@@ -13,7 +13,7 @@ function logWhisper(string) {
 }
 spy('HELLO')
 function sayHiToGrandma(string) {
-  if (sayHiToGrandma('hello'))
+  if (string = 'hello')
   return ("I can\'t hear you!")
   else if (sayHiToGrandma('HELLO'))
   return ("YES INDEED!")
